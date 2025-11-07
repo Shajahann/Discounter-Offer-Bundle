@@ -1,0 +1,5 @@
+{
+  "name": "Discount & Bundling Engine",
+  "description": "A comprehensive application to configure various e-commerce discounts, bundles, and promotions. It guides the user through setting up tiered pricing, mix & match bundles, cart goals, free gifts, and BOGO offers, culminating in a final review dashboard.",
+  "requestFramePermissions": []
+}
